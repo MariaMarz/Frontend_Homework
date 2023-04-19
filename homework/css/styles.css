@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+}
+
+.post-box {
+    background-color: #34495E;
+    color: white;
+    border-radius: 20px;
+    padding: 21px;
+    margin: 20px;
+}
+
+img {
+   padding-left: 200px;
+}
+
+.social-links a img {
+    width: 48px;
+    height: 48px;
+    padding-left: 21px;
+ }
